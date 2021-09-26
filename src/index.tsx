@@ -5,7 +5,7 @@ import { App } from '@code-not-art/sketch';
 import sketch from './sketch';
 
 declare const module: any;
-export default hot(module)(sketch);
+export default hot(module)(App);
 
 const root = document.getElementById('root');
 
