@@ -56,11 +56,13 @@ Once your sketch is rendering in the browser, you can interact with it both thro
 
 ### Keyboard Controls
 
-TLDR: Spacebar to regenerate, arrow keys to change only colour or image, S to save
+TLDR: Spacebar to regenerate, arrow keys to change only colour or image, S to save, M to show/hide the menu
 
 | **Key** |                                        **Action**                                         |
 | :-----: | :---------------------------------------------------------------------------------------: |
 |   `s`   |                                  Save the current image                                   |
+|   `m`   |                                 Show/Hide Parameter Menu                                  |
+|         |                                                                                           |
 | `space` |              Generate new **image** and **color** seeds. **Draw new image**.              |
 |   `↑`   | Move to next **color** seed, or generate a new one if at end of list. **Draw new image**. |
 |   `↓`   |                   Move to previous **color** seed. **Draw new image**.                    |
@@ -68,7 +70,3 @@ TLDR: Spacebar to regenerate, arrow keys to change only colour or image, S to sa
 |   `←`   |                   Move to previous **image** seed. **Draw new image**.                    |
 |   `c`   |                     Generate new **color** seed. **Draw new image**.                      |
 |   `i`   |                     Generate new **image** seed. **Draw new image**.                      |
-
-## Share With the World
-
-###
